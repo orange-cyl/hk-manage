@@ -1,0 +1,7 @@
+build/*.js
+config/*.js
+src/assets
+src/http
+src/pages
+src/router
+src/components/Upload
